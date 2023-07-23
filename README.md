@@ -1,7 +1,7 @@
 # Portfolio-Vincent
 Portfolio réalisé en MM1 à l'UTT
 
-## Intro
+## INTRO
 Ce projet est réalisé dans le cadre de l’UE (Unité d’Enseignement) MM01 (Multimédia), durant le semestre d’Automne 2021. 
 
 Le projet consiste à réaliser un site web vitrine de type portfolio pour Vincent Gonnet. Ce projet sera réalisé par Thomas Guibert, le maitre d’œuvre, un étudiant de TC1 à l’UTT. Le projet débute le 4 octobre 2021 et est prévu finit pour le 3 janvier 2022.
